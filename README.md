@@ -86,7 +86,8 @@ storybook.ipynb
 
 ## Contributors
 
-- [Your Name]
-- [Teammate 1]
-- [Teammate 2]
+- [Chethan Mahindrakar]
+- [Jasmine Chen](https://github.com/JasmnC)
+- [Jin Ding]
+- [Cheng-Yen Lai]
 
