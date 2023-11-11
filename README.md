@@ -89,5 +89,5 @@ storybook.ipynb
 - [Chethan Mahindrakar](https://github.com/chethanmahindrakar)
 - [Jasmine Chen](https://github.com/JasmnC)
 - [Jin Ding](https://github.com/DingJin123)
-- [Cheng-Yen Lai]
+- [Cheng-Yen Lai](https://github.com/cylai0227)
 
