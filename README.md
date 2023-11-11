@@ -31,6 +31,15 @@ The project utilizes various image processing techniques such as brightness adju
 - Subtitle Integration
 - Image Combination
 
+## Tech Stack
+
+- PyTorch
+- NumPy
+- OpenCV
+- Pillow
+- Matplotlib
+- pandas
+
 ## Project Structure
 
 ```
@@ -51,15 +60,6 @@ The project utilizes various image processing techniques such as brightness adju
   |- output-chineese.pdf
   |- output-english.pdf
 ```
-
-## Tech Stack
-
-- PyTorch
-- NumPy
-- OpenCV
-- Pillow
-- Matplotlib
-- pandas
 
 ## Usage
 
