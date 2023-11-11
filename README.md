@@ -1,8 +1,6 @@
 # Steer My Heart
 ### A python generated storybook inspired by Japanese movie Drive My Car
 
-**Holistic Nested Edge Detection (HED) and Shape Detection**
-
 ## Introduction
 
 This project, developed as part of 6105 data science class, focuses on implementing multiple python libraries for image processing to enhance and modify the images. 
@@ -12,7 +10,10 @@ All of the enhancment and modification were done in python. Additionally, we ado
 
 🏆 **In-Class Oscar Award Winner** 🏆
 
-Our team proudly received an in-class Oscar award for the outstanding work and creativity demonstrated in this project.
+<details>
+  <summary>Our team proudly received an in-class Oscar award for the outstanding work and creativity demonstrated in this project.</summary>
+</details>
+
 
 ## Table of Contents
 
