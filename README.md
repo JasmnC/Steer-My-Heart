@@ -21,16 +21,15 @@ All of the enhancment and modification were done in python. Additionally, we ado
 2. [Features](#features)
 3. [Project Structure](#project-structure)
 4. [Dependencies](#dependencies)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Tech Stack](#tech-stack)
-8. [Acknowledgments](#acknowledgments)
-9. [Contributors](#contributors)
-10. [License](#license)
+5. [Usage](#usage)
+6. [Tech Stack](#tech-stack)
+7. [Acknowledgments](#acknowledgments)
+8. [Contributors](#contributors)
+9. [License](#license)
 
 ## Overview
 
-The project utilizes the HED network for holistic edge detection in images. Additionally, various image processing techniques such as brightness adjustment, blurring, and border addition have been implemented. The code includes functionality to generate customized layouts, insert subtitles, and combine images, resulting in visually appealing outputs.
+The project utilizes various image processing techniques such as brightness adjustment, blurring, and border addition have been implemented. Moreover, we applied the HED network for holistic edge detection in images. The code includes functionality to generate customized layouts, insert subtitles, and combine images, resulting in visually appealing outputs.
 
 ## Features
 
@@ -70,7 +69,7 @@ The project utilizes the HED network for holistic edge detection in images. Addi
 - Matplotlib
 - pandas
 
-## Installation
+## Usage
 
 1. Clone the repository:
 
