@@ -12,20 +12,10 @@ All of the enhancment and modification were done in python. Additionally, we ado
 
 <details>
   <summary>Our team proudly received an in-class Oscar award for the outstanding work and creativity demonstrated in this project.</summary>
+ 
+  ![](oscar.jpg)
+
 </details>
-
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Project Structure](#project-structure)
-4. [Dependencies](#dependencies)
-5. [Usage](#usage)
-6. [Tech Stack](#tech-stack)
-7. [Acknowledgments](#acknowledgments)
-8. [Contributors](#contributors)
-9. [License](#license)
 
 ## Overview
 
@@ -44,23 +34,25 @@ The project utilizes various image processing techniques such as brightness adju
 ## Project Structure
 
 ```
-|- code
-  |- HED_network.py
-  |- image_processing.py
-  |- layout_generation.py
+|- code structure
+  |- HED_network
+  |- subtitle_generation
+  |- image_processing
+  |- layout_generation
 |- images
   |- scene1
   |- scene2
   |- scene3
   |- scene4
   |- scene5
-|- modified_images
-|- sub_images
-|- subtitles
-|- README.md
+|- outputs
+  |- modify_images
+  |- sub_images
+  |- output-chineese.pdf
+  |- output-english.pdf
 ```
 
-## Dependencies
+## Tech Stack
 
 - PyTorch
 - NumPy
@@ -74,38 +66,23 @@ The project utilizes various image processing techniques such as brightness adju
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chethanmahindrakar/HED-and-Shape-detection.git
-cd HED-and-Shape-detection
+git clone https://github.com/JasmnC/Steer-My-Heart.git
+cd Steer-My-Heart
 ```
 
-2. Install dependencies:
+2. Activate Jupyter Notebook:
 
 ```bash
-pip install -r requirements.txt
+jupyter-notebook
 ```
-
-## Usage
-
-1. Place images in the `images` directory, organized by scenes.
-2. Update subtitle files in the `subtitles` directory.
 3. Run the main script:
 
-```bash
-python main.py
+```
+storybook.ipynb
 ```
 
-4. Find the processed images in the `modified_images` directory.
+4. Find the generated storybook (PDF) in the root folder.
 
-## Tech Stack
-
-- PyTorch
-- OpenCV
-- NumPy
-- Pillow
-
-## Acknowledgments
-
-We would like to express our gratitude to [Instructor Name] for the guidance and support throughout the development of this project.
 
 ## Contributors
 
@@ -113,6 +90,3 @@ We would like to express our gratitude to [Instructor Name] for the guidance and
 - [Teammate 1]
 - [Teammate 2]
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
