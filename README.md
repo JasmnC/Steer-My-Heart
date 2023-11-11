@@ -5,7 +5,8 @@
 
 ## Introduction
 
-This project, developed as part of an undergraduate class, focuses on implementing the Holistically-Nested Edge Detection (HED) network for edge detection in images. Additionally, shape detection and image processing techniques are applied to enhance and modify the images.
+This project, developed as part of 6105 data science class, focuses on implementing multiple python libraries for image processing to enhance and modify the images. 
+All of the enhancment and modification were done in python. Additionally, we adopt Holistically-Nested Edge Detection (HED) network for edge and shape detection.
 
 ## Oscar Award
 
